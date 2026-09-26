@@ -1,0 +1,141 @@
+[
+  {
+    "id": "business-administration",
+    "name": "Business Administration",
+    "description": "A comprehensive degree covering modern corporate management, finance, marketing strategies, international trade, and organizational leadership. Students develop strategic problem-solving skills required for management roles in global enterprises.",
+    "level": "Bachelor's",
+    "duration": "3 Years",
+    "entryRequirements": "High school diploma with good grades in mathematics and English. A statement of purpose and letter of recommendation are required.",
+    "tuitionFee": "€3,000 - €6,500 / year",
+    "intake": "September & February",
+    "countryIds": [
+      "hungary",
+      "malta",
+      "slovakia",
+      "germany",
+      "poland",
+      "spain"
+    ],
+    "universityIds": [
+      "university-of-debrecen",
+      "university-of-malta",
+      "comenius-university",
+      "humboldt-university-of-berlin",
+      "university-of-warsaw",
+      "autonomous-university-of-barcelona"
+    ]
+  },
+  {
+    "id": "computer-science",
+    "name": "Computer Science",
+    "description": "An intensive study of algorithms, software development, web systems, database design, and cloud architecture. Prepares graduates to solve complex computing problems and innovate in software engineering and technology sectors.",
+    "level": "Bachelor's",
+    "duration": "3.5 Years",
+    "entryRequirements": "High school completion with strong fundamentals in mathematics and logical reasoning, alongside English proficiency.",
+    "tuitionFee": "€3,200 - €7,000 / year",
+    "intake": "September & October",
+    "countryIds": [
+      "hungary",
+      "malta",
+      "slovenia",
+      "germany",
+      "poland",
+      "latvia",
+      "bulgaria"
+    ],
+    "universityIds": [
+      "eotvos-lorand-university",
+      "university-of-malta",
+      "university-of-ljubljana",
+      "technical-university-of-munich",
+      "university-of-warsaw",
+      "university-of-latvia",
+      "sofia-university"
+    ]
+  },
+  {
+    "id": "mechanical-engineering",
+    "name": "Mechanical Engineering",
+    "description": "Covers thermodynamics, fluid mechanics, CAD design, robotics, automotive engineering, and materials science. Combines rigorous physical principles with practical engineering laboratory design projects.",
+    "level": "Bachelor's",
+    "duration": "3.5 Years",
+    "entryRequirements": "Strong secondary school background in Physics and Advanced Mathematics. Official academic transcripts and English test certificates.",
+    "tuitionFee": "€3,500 - €7,500 / year",
+    "intake": "September & October",
+    "countryIds": [
+      "hungary",
+      "slovakia",
+      "germany"
+    ],
+    "universityIds": [
+      "university-of-debrecen",
+      "slovak-university-of-technology",
+      "technical-university-of-munich"
+    ]
+  },
+  {
+    "id": "civil-engineering",
+    "name": "Civil Engineering",
+    "description": "Focuses on structural analysis, transportation infrastructure, geotechnics, urban planning, and sustainable construction practices. Equips students with technical tools to design modern resilient buildings and bridges.",
+    "level": "Bachelor's",
+    "duration": "4 Years",
+    "entryRequirements": "Completion of secondary education with emphasis on Mathematics and Chemistry or Physics. B2 English proficiency.",
+    "tuitionFee": "€2,800 - €5,500 / year",
+    "intake": "September",
+    "countryIds": [
+      "slovenia",
+      "slovakia",
+      "bulgaria"
+    ],
+    "universityIds": [
+      "university-of-ljubljana",
+      "slovak-university-of-technology",
+      "sofia-university"
+    ]
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "description": "An advanced program specializing in machine learning, statistical modeling, big data analytics, neural networks, and business intelligence. Students learn to extract actionable insights from complex unstructured data sets.",
+    "level": "Master's",
+    "duration": "2 Years",
+    "entryRequirements": "Bachelor's degree in Computer Science, Mathematics, Statistics, or related STEM field. Proof of English language competency.",
+    "tuitionFee": "€3,800 - €8,000 / year",
+    "intake": "September & October",
+    "countryIds": [
+      "hungary",
+      "slovenia",
+      "slovakia",
+      "germany",
+      "poland",
+      "latvia"
+    ],
+    "universityIds": [
+      "eotvos-lorand-university",
+      "university-of-ljubljana",
+      "comenius-university",
+      "technical-university-of-munich",
+      "humboldt-university-of-berlin",
+      "university-of-warsaw",
+      "university-of-latvia"
+    ]
+  },
+  {
+    "id": "hospitality-management",
+    "name": "Hospitality Management",
+    "description": "Teaches luxury hotel operations, resort management, event planning, customer experience design, and tourism economics. Blends managerial education with hands-on internship experience in world-class resorts.",
+    "level": "Bachelor's",
+    "duration": "3 Years",
+    "entryRequirements": "High school leaving diploma, motivation essay, and B2 level English language qualification.",
+    "tuitionFee": "€4,500 - €8,500 / year",
+    "intake": "October",
+    "countryIds": [
+      "malta",
+      "spain"
+    ],
+    "universityIds": [
+      "university-of-malta",
+      "autonomous-university-of-barcelona"
+    ]
+  }
+]

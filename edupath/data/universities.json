@@ -1,0 +1,253 @@
+[
+  {
+    "id": "eotvos-lorand-university",
+    "name": "Eötvös Loránd University",
+    "countryId": "hungary",
+    "location": "Budapest, Hungary",
+    "overview": "Founded in 1635, Eötvös Loránd University (ELTE) is Hungary's largest and most prestigious research university located in central Budapest. ELTE is renowned for its academic excellence in natural sciences, informatics, and humanities, producing several Nobel laureates.",
+    "tuitionFees": "€3,000 - €5,000 / year",
+    "entryRequirements": "High school leaving certificate for undergraduate studies; Bachelor's degree with transcripts for Master's programs. Proof of B2/C1 English proficiency.",
+    "intakes": [
+      "September",
+      "February"
+    ],
+    "accommodationInfo": "ELTE offers several modern student dormitories in Budapest, as well as an official housing agency service assisting international students with private apartments.",
+    "applicationRequirements": "Completed online application, official degree translations, motivation letter, CV, passport copy, and English test scores.",
+    "scholarships": "Fully funded Stipendium Hungaricum scholarships and ELTE Merit Academic Grants.",
+    "admissionProcess": "Online application evaluation followed by an online oral examination or entrance test conducted by the faculty board.",
+    "courseIds": [
+      "computer-science",
+      "data-science"
+    ]
+  },
+  {
+    "id": "university-of-debrecen",
+    "name": "University of Debrecen",
+    "countryId": "hungary",
+    "location": "Debrecen, Hungary",
+    "overview": "The University of Debrecen is one of Hungary's premier higher education institutions, boasting over 30,000 students including 7,000 international students. The university features state-of-the-art laboratory facilities, a sprawling green campus, and strong engineering partnerships.",
+    "tuitionFees": "€3,200 - €6,000 / year",
+    "entryRequirements": "High school diploma with good marks in science/math subjects. B2 English level certification.",
+    "intakes": [
+      "September",
+      "February"
+    ],
+    "accommodationInfo": "On-campus residence halls offer comfortable single and double rooms equipped with high-speed internet and access to sports facilities.",
+    "applicationRequirements": "Passport scan, secondary school transcripts, medical certificate, and proof of English proficiency.",
+    "scholarships": "Stipendium Hungaricum and Debrecen International Student Merit Scholarships.",
+    "admissionProcess": "Review of academic credentials followed by a Skype/Zoom interview and basic aptitude test.",
+    "courseIds": [
+      "business-administration",
+      "mechanical-engineering"
+    ]
+  },
+  {
+    "id": "university-of-malta",
+    "name": "University of Malta",
+    "countryId": "malta",
+    "location": "Msida, Malta",
+    "overview": "With a history extending back over 400 years, the University of Malta is the highest educational institution on the island. Located in Msida, it provides comprehensive British-modeled degree programs across tech, business, and maritime disciplines.",
+    "tuitionFees": "€4,500 - €8,500 / year",
+    "entryRequirements": "Matriculation Certificate or recognized secondary school qualifications. IELTS 6.0 or equivalent.",
+    "intakes": [
+      "October",
+      "February"
+    ],
+    "accommodationInfo": "University Residence Campus in Lija offers self-catering apartments with swimming pool, shuttle service, and study lounges.",
+    "applicationRequirements": "Certified academic certificates, statement of purpose, English proficiency certificate, and 2 referee letters.",
+    "scholarships": "University of Malta Master's Research Grants and Ministry of Education fee waivers.",
+    "admissionProcess": "Direct application submission through the international admissions portal and document verification.",
+    "courseIds": [
+      "business-administration",
+      "hospitality-management",
+      "computer-science"
+    ]
+  },
+  {
+    "id": "university-of-ljubljana",
+    "name": "University of Ljubljana",
+    "countryId": "slovenia",
+    "location": "Ljubljana, Slovenia",
+    "overview": "Established in 1919, the University of Ljubljana is Slovenia's flagship higher education and research institution. Ranked among the top 3% of universities worldwide, it is famous for engineering innovation, social sciences, and vibrant student life.",
+    "tuitionFees": "€2,500 - €5,500 / year",
+    "entryRequirements": "Secondary school certificate recognized under Slovene nostrification regulations. B2 level English language proof.",
+    "intakes": [
+      "October"
+    ],
+    "accommodationInfo": "Public student dormitories across Ljubljana provide subsidized housing with excellent access to public transit.",
+    "applicationRequirements": "eVŠ online application form, apostilled educational certificates, passport photo, and English test scores.",
+    "scholarships": "Ad Futura educational grants and Slovene Government scholarships for foreign citizens.",
+    "admissionProcess": "Centralized application filtering via the eVŠ portal based on secondary school grade averages.",
+    "courseIds": [
+      "computer-science",
+      "civil-engineering",
+      "data-science"
+    ]
+  },
+  {
+    "id": "comenius-university",
+    "name": "Comenius University",
+    "countryId": "slovakia",
+    "location": "Bratislava, Slovakia",
+    "overview": "Comenius University in Bratislava is the oldest university in Slovakia, founded in 1919. It hosts over 22,000 students and offers highly rated programs in computer science, natural sciences, and international management right in the national capital.",
+    "tuitionFees": "€2,500 - €6,000 / year",
+    "entryRequirements": "High school leaving examination certificate with recognized equivalence. B2 English certificate.",
+    "intakes": [
+      "September"
+    ],
+    "accommodationInfo": "Dormitory complexes in Mlynská Dolina offer low-cost student accommodation with dining halls and athletic facilities.",
+    "applicationRequirements": "Application form, nostrification document of high school education, CV, and passport copy.",
+    "scholarships": "National Scholarship Programme of Slovakia for international degree-seeking students.",
+    "admissionProcess": "Document review and written or oral entrance exam depending on the faculty specialization.",
+    "courseIds": [
+      "business-administration",
+      "data-science"
+    ]
+  },
+  {
+    "id": "slovak-university-of-technology",
+    "name": "Slovak University of Technology",
+    "countryId": "slovakia",
+    "location": "Bratislava, Slovakia",
+    "overview": "Slovak University of Technology in Bratislava (STU) is the premier technical university in Slovakia. Specializing in mechanical engineering, civil infrastructure, informatics, and chemistry, STU maintains close ties with European industrial leaders.",
+    "tuitionFees": "€3,000 - €5,500 / year",
+    "entryRequirements": "High school diploma with advanced coursework in Physics and Mathematics.",
+    "intakes": [
+      "September"
+    ],
+    "accommodationInfo": "STU student hostels in Bratislava offer affordable living spaces close to engineering laboratories and city centers.",
+    "applicationRequirements": "STU online application, validated transcripts, English language proficiency proof, and proof of payment.",
+    "scholarships": "STU Talent Scholarships for outstanding international engineering candidates.",
+    "admissionProcess": "Evaluation of secondary school STEM grades and faculty entrance test.",
+    "courseIds": [
+      "mechanical-engineering",
+      "civil-engineering"
+    ]
+  },
+  {
+    "id": "technical-university-of-munich",
+    "name": "Technical University of Munich",
+    "countryId": "germany",
+    "location": "Munich, Germany",
+    "overview": "Technical University of Munich (TUM) is regularly ranked as Germany's top university and one of the finest technical institutions in Europe. TUM excels in engineering, computer science, and data analytics, nurturing startup founders and world-leading researchers.",
+    "tuitionFees": "€2,000 - €6,000 / year",
+    "entryRequirements": "Higher Education Entrance Qualification (Abitur-equivalent or Studienkolleg). IELTS 6.5+ or TOEFL 88+.",
+    "intakes": [
+      "October",
+      "April"
+    ],
+    "accommodationInfo": "Studentenwerk München provides university housing options alongside recommended private housing search channels.",
+    "applicationRequirements": "TUMonline portal submission, preliminary documentation (VPD) from uni-assist, CV, and letter of motivation.",
+    "scholarships": "Deutschlandstipendium and TUM Foundation Grants.",
+    "admissionProcess": "Aptitude Assessment Process (Eignungsverfahren) based on grades, essay, and technical interview.",
+    "courseIds": [
+      "computer-science",
+      "mechanical-engineering",
+      "data-science"
+    ]
+  },
+  {
+    "id": "humboldt-university-of-berlin",
+    "name": "Humboldt University of Berlin",
+    "countryId": "germany",
+    "location": "Berlin, Germany",
+    "overview": "Founded in 1810 by Wilhelm von Humboldt, this historic Berlin institution pioneered the modern research university model. Humboldt University ranks among Germany's Universities of Excellence, producing 55 Nobel laureates.",
+    "tuitionFees": "€300 / semester (Semester contribution fee)",
+    "entryRequirements": "Recognized secondary school leaving diploma (or VPD via uni-assist). B2/C1 English or German proficiency.",
+    "intakes": [
+      "October"
+    ],
+    "accommodationInfo": "Studierendenwerk Berlin offers student residence halls across Berlin with affordable monthly rent.",
+    "applicationRequirements": "uni-assist online application, certified copies of transcripts, CV, and proof of language proficiency.",
+    "scholarships": "DAAD Master's Scholarships and Humboldt Student Research Fellowships.",
+    "admissionProcess": "Centralized admission evaluation via uni-assist and Humboldt University admissions committee.",
+    "courseIds": [
+      "business-administration",
+      "data-science"
+    ]
+  },
+  {
+    "id": "university-of-warsaw",
+    "name": "University of Warsaw",
+    "countryId": "poland",
+    "location": "Warsaw, Poland",
+    "overview": "Established in 1816, the University of Warsaw is Poland's largest and leading research institution. It ranks among the top European universities in computer science, mathematics, and international business.",
+    "tuitionFees": "€2,500 - €4,500 / year",
+    "entryRequirements": "High school leaving certificate or Bachelor's degree in a STEM/Business discipline. Proof of English B2 level.",
+    "intakes": [
+      "October",
+      "February"
+    ],
+    "accommodationInfo": "UW operates several student dormitories located across Warsaw providing affordable self-catering accommodation.",
+    "applicationRequirements": "Online application form, apostilled educational certificates, English test scores, passport copy, and motivation statement.",
+    "scholarships": "Banach Scholarships and UW Rector's Grants for high-achieving international students.",
+    "admissionProcess": "Application screening followed by a subject qualification test or online interview.",
+    "courseIds": [
+      "computer-science",
+      "business-administration",
+      "data-science"
+    ]
+  },
+  {
+    "id": "university-of-latvia",
+    "name": "University of Latvia",
+    "countryId": "latvia",
+    "location": "Riga, Latvia",
+    "overview": "Founded in 1919 in the capital city of Riga, the University of Latvia is the country's primary research university with over 15,000 students. It offers accredited English-taught degrees in computer science, natural sciences, and analytics.",
+    "tuitionFees": "€2,200 - €4,200 / year",
+    "entryRequirements": "Secondary education certificate with good mathematics grades. B2 English level.",
+    "intakes": [
+      "September",
+      "February"
+    ],
+    "accommodationInfo": "UL provides cozy renovated student hostels near Riga center with all utilities included.",
+    "applicationRequirements": "Passport scan, educational certificates with official translations, CV, and motivational essay.",
+    "scholarships": "Latvian Government Scholarships and UL Merit Awards.",
+    "admissionProcess": "Verification of transcripts by the Academic Information Centre (AIC) followed by an online interview.",
+    "courseIds": [
+      "computer-science",
+      "data-science"
+    ]
+  },
+  {
+    "id": "sofia-university",
+    "name": "Sofia University",
+    "countryId": "bulgaria",
+    "location": "Sofia, Bulgaria",
+    "overview": "Established in 1888, Sofia University St. Kliment Ohridski is the oldest and highest-ranked university in Bulgaria. Located in the heart of Sofia, it excels in computer science, software engineering, and structural engineering.",
+    "tuitionFees": "€2,500 - €3,800 / year",
+    "entryRequirements": "High school diploma certified by the Ministry of Education. Proof of English B2 level.",
+    "intakes": [
+      "October"
+    ],
+    "accommodationInfo": "Sofia University student residence halls in Studentski Grad offer low-cost housing options.",
+    "applicationRequirements": "Legalized high school diploma, medical certificate, passport copy, and passport photos.",
+    "scholarships": "Bulgarian State Scholarships and Faculty Academic Grants.",
+    "admissionProcess": "Document evaluation by the Ministry of Education followed by university enrollment.",
+    "courseIds": [
+      "computer-science",
+      "civil-engineering"
+    ]
+  },
+  {
+    "id": "autonomous-university-of-barcelona",
+    "name": "Autonomous University of Barcelona",
+    "countryId": "spain",
+    "location": "Barcelona, Spain",
+    "overview": "Founded in 1968, the Autonomous University of Barcelona (UAB) is one of Spain's top public research universities. Located on a green campus near Barcelona, UAB is globally renowned for business management and tourism studies.",
+    "tuitionFees": "€3,000 - €5,800 / year",
+    "entryRequirements": "UNEDasiss validation for high school credentials or relevant Bachelor's degree for Master's entry.",
+    "intakes": [
+      "September",
+      "January"
+    ],
+    "accommodationInfo": "Vila Universitària on the UAB campus offers over 2,000 student apartments with swimming pool and sports facilities.",
+    "applicationRequirements": "UNED credential accreditation, certified transcripts, passport copy, motivation letter, and English test results.",
+    "scholarships": "UAB International Excellence Scholarships and MAEC Grants.",
+    "admissionProcess": "Online application evaluation and academic grade ranking.",
+    "courseIds": [
+      "business-administration",
+      "hospitality-management"
+    ]
+  }
+]

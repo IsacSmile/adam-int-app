@@ -1,0 +1,308 @@
+[
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "flagEmoji": "🇭🇺",
+    "overview": "Hungary is a vibrant European nation located in Central Europe, known for its rich history, thermal baths, and world-class higher education system. It offers high quality degree programs with affordable tuition fees and lower cost of living compared to Western Europe. Thousands of international students choose Hungary every year for its welcoming culture and accredited European diplomas.",
+    "whyStudy": "Studying in Hungary grants you access to globally recognized degrees accredited within the EU framework. International students benefit from generous scholarships like Stipendium Hungaricum, low tuition fees, and rich cultural experiences in historic academic cities such as Budapest and Debrecen.",
+    "educationSystem": "The Hungarian higher education system follows the Bologna Process, providing Bachelor's (3-4 years), Master's (1-2 years), and Doctoral degrees. State and private universities are closely monitored by the Hungarian Accreditation Committee to ensure high educational standards.",
+    "popularPrograms": [
+      "Computer Science",
+      "Data Science",
+      "Business Administration",
+      "Mechanical Engineering"
+    ],
+    "tuitionFees": "Average tuition fees range from €2,500 to €5,000 per year for undergraduate programs, and €3,000 to €7,000 per year for postgraduate degrees.",
+    "costOfLiving": "Monthly living expenses in Hungary average between €450 and €750, including student accommodation, meals, public transport, and health insurance.",
+    "admissionRequirements": "Applicants must hold a recognized High School Diploma for Bachelor's entry or a relevant Bachelor's degree for Master's programs, along with official academic transcripts.",
+    "englishRequirements": "IELTS score of 6.0+ or TOEFL iBT 72+. Many universities also offer internal English placement tests or foundation courses.",
+    "intakes": [
+      "September (Fall)",
+      "February (Spring)"
+    ],
+    "visaInfo": "Non-EU students require a Type D Study Visa before entry, which is converted to a Student Residence Permit upon arrival in Hungary.",
+    "scholarships": "The Stipendium Hungaricum scholarship covers full tuition fees, monthly living allowance, accommodation contribution, and medical insurance.",
+    "workOpportunities": "International students holding a residence permit can work up to 30 hours per week during academic semesters and up to 66 days full-time during holidays.",
+    "careerOpportunities": "Hungary is a major Central European technology and manufacturing hub, offering growing career paths in IT, engineering, finance, and global business services.",
+    "applicationProcess": "Submit online application with academic certificates, passport copy, CV, motivation letter, and English test results followed by an online interview.",
+    "courseIds": [
+      "computer-science",
+      "data-science",
+      "business-administration",
+      "mechanical-engineering"
+    ],
+    "universityIds": [
+      "eotvos-lorand-university",
+      "university-of-debrecen"
+    ]
+  },
+  {
+    "id": "malta",
+    "name": "Malta",
+    "flagEmoji": "🇲🇹",
+    "overview": "Malta is an archipelago nation in the Mediterranean Sea boasting a rich history, year-round sunny weather, and English as an official language. Its educational institutions offer British-aligned degree structures with high academic standards in a safe, island paradise setting.",
+    "whyStudy": "Malta offers an English-speaking environment in the heart of Europe with affordable tuition fees. Studying in Malta allows students to experience a Mediterranean lifestyle while earning recognized European degrees.",
+    "educationSystem": "Higher education in Malta is aligned with the European Qualifications Framework (EQF). Degrees follow the 3-year Bachelor's and 1-to-2-year Master's format with strong practical training emphasis.",
+    "popularPrograms": [
+      "Business Administration",
+      "Hospitality Management",
+      "Computer Science"
+    ],
+    "tuitionFees": "Tuition fees range from €4,000 to €8,500 per academic year depending on the institution and chosen program of study.",
+    "costOfLiving": "Living costs in Malta range between €650 and €950 per month, covering housing, groceries, transport, and leisure.",
+    "admissionRequirements": "High school graduation certificate for undergraduate studies or a Bachelor's degree in a relevant discipline for postgraduate programs.",
+    "englishRequirements": "IELTS 6.0+ or TOEFL 80+. Since English is an official language, medium-of-instruction certificates from English-taught secondary schools may also be accepted.",
+    "intakes": [
+      "October (Fall)",
+      "February (Spring)"
+    ],
+    "visaInfo": "Non-EU students apply for a Schengen National Visa (D-Visa) supported by an official acceptance letter from an accredited Maltese institution.",
+    "scholarships": "Malta Enterprise scholarships and Ministry for Education awards provide partial tuition waivers for merit-based international applicants.",
+    "workOpportunities": "Students can work part-time up to 20 hours per week after the 90th day of residing in Malta with a valid work permit.",
+    "careerOpportunities": "Malta features thriving industries in iGaming, fintech, maritime studies, tourism, and software engineering with post-study work possibilities.",
+    "applicationProcess": "Apply directly through university portals, upload certified transcripts, passport details, proof of funds, and English proficiency test scores.",
+    "courseIds": [
+      "business-administration",
+      "hospitality-management",
+      "computer-science"
+    ],
+    "universityIds": [
+      "university-of-malta"
+    ]
+  },
+  {
+    "id": "slovenia",
+    "name": "Slovenia",
+    "flagEmoji": "🇸🇮",
+    "overview": "Slovenia is a picturesque Central European country famed for its green forests, Alpine peaks, and high quality of life. Higher education institutions in Slovenia are renowned for cutting-edge research, low tuition costs, and student-friendly benefits such as subsidized meals.",
+    "whyStudy": "Slovenia combines high educational standards with stunning natural landscapes and safety. International students enjoy state-subsidized meals ('Student Bonov'), discounted transportation, and free language courses.",
+    "educationSystem": "Slovenia's higher education system is part of the Bologna Process, featuring top-ranked public universities and specialized colleges offering degrees taught in English.",
+    "popularPrograms": [
+      "Computer Science",
+      "Civil Engineering",
+      "Data Science"
+    ],
+    "tuitionFees": "Tuition fees for non-EU students range from €2,000 to €5,500 per year for most undergraduate and master's degree courses.",
+    "costOfLiving": "Monthly living expenses range from €500 to €800, benefiting significantly from government student subsidies on food and transit.",
+    "admissionRequirements": "Secondary school leaving certificate with grade transcript for Bachelor's degrees; relevant undergraduate degree for Master's programs.",
+    "englishRequirements": "IELTS 6.0+ or equivalent B2 English language proficiency certificate.",
+    "intakes": [
+      "October (Fall)"
+    ],
+    "visaInfo": "Students apply for a Temporary Residence Permit for study purposes at the nearest Slovenian embassy prior to departure.",
+    "scholarships": "The Slovene Human Resources Development and Scholarship Fund (Ad Futura) offers scholarships to foreign students.",
+    "workOpportunities": "International students can work through student service agencies ('Študentski servis') with flexible part-time options.",
+    "careerOpportunities": "Slovenia has a high-tech economy with opportunities in automation, environmental technology, software design, and engineering.",
+    "applicationProcess": "Applications are submitted through the central eVŠ portal with certified translations of academic records and passport copies.",
+    "courseIds": [
+      "computer-science",
+      "civil-engineering",
+      "data-science"
+    ],
+    "universityIds": [
+      "university-of-ljubljana"
+    ]
+  },
+  {
+    "id": "slovakia",
+    "name": "Slovakia",
+    "flagEmoji": "🇸🇰",
+    "overview": "Slovakia is located at the geographical heart of Europe, boasting majestic castles, mountains, and a rapidly expanding tech and automotive sector. Slovak universities provide modern research facilities and EU-recognized qualifications at highly competitive prices.",
+    "whyStudy": "Slovakia offers safe cities, affordable living costs, and strong industrial partnerships. Studying here allows easy travel across the Schengen zone and access to internships in multinational corporations.",
+    "educationSystem": "The Slovak system comprises public, state, and private universities aligned with ECTS credit transfers across 3 levels: Bachelor, Master, and PhD degrees.",
+    "popularPrograms": [
+      "Business Administration",
+      "Data Science",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ],
+    "tuitionFees": "Tuition fees for English-medium programs range between €2,000 and €6,000 per year.",
+    "costOfLiving": "Estimated monthly living budget is €450 to €700, covering university dormitories, dining, and leisure activities.",
+    "admissionRequirements": "High school diploma validation (nostrification) for Bachelor's applicants; accredited undergraduate degree for Master's degree candidates.",
+    "englishRequirements": "IELTS 5.5 - 6.5 or equivalent B2 certificate in English proficiency.",
+    "intakes": [
+      "September (Fall)"
+    ],
+    "visaInfo": "Requires a Schengen D Visa followed by applying for a Temporary Residence for the purpose of study at foreign police offices in Slovakia.",
+    "scholarships": "National Scholarship Programme of the Slovak Republic provides funding for international students, university teachers, and researchers.",
+    "workOpportunities": "Students can work up to 20 hours per week during the school semester and full-time during official university holiday periods.",
+    "careerOpportunities": "High demand for software developers, mechanical engineers, project managers, and financial analysts in Bratislava and Košice.",
+    "applicationProcess": "Direct application to university faculties, followed by entrance exams or document evaluation and nostrification of prior studies.",
+    "courseIds": [
+      "business-administration",
+      "data-science",
+      "mechanical-engineering",
+      "civil-engineering"
+    ],
+    "universityIds": [
+      "comenius-university",
+      "slovak-university-of-technology"
+    ]
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "flagEmoji": "🇩🇪",
+    "overview": "Germany is Europe's economic engine and a world leader in technological innovation, research, and engineering education. With top-ranked universities, strong industry links, and rich cultural traditions, Germany is one of the premier study destinations globally.",
+    "whyStudy": "Germany offers exceptional academic quality, world-renowned research institutes, post-study work opportunities, and tuition-free or low-cost education at state universities.",
+    "educationSystem": "Universities of Technology (TU) and Applied Sciences (FH) deliver rigorous theoretical and practical degree programs structured under the Bologna framework.",
+    "popularPrograms": [
+      "Computer Science",
+      "Mechanical Engineering",
+      "Data Science",
+      "Business Administration"
+    ],
+    "tuitionFees": "Public universities charge nominal semester fees (€150 to €350 per semester). Tuition in Baden-Württemberg or private institutions ranges from €3,000 to €10,000 per year.",
+    "costOfLiving": "Monthly living expenses average around €900 to €1,100, which includes health insurance, housing, transport, and semester contributions.",
+    "admissionRequirements": "Recognized secondary school certificate (or Studienkolleg/Feststellungsprüfung) for Bachelor's programs; relevant Bachelor's degree for Master's programs.",
+    "englishRequirements": "IELTS 6.5+ or TOEFL 90+ for English-taught degree courses.",
+    "intakes": [
+      "October (Winter)",
+      "April (Summer)"
+    ],
+    "visaInfo": "Non-EU applicants require a German National Student Visa (Visum zu Studienzwecken) supported by a blocked bank account (Sperrkonto).",
+    "scholarships": "DAAD (German Academic Exchange Service) and Deutschlandstipendium offer extensive merit-based grants for foreign students.",
+    "workOpportunities": "International students can work 120 full days or 240 half days per calendar year without additional work permits.",
+    "careerOpportunities": "18-month post-study work visa allows graduates to seek employment in Germany's robust technology, automotive, software, and commercial sectors.",
+    "applicationProcess": "Submit applications via uni-assist or directly to university application portals alongside certified translations and APS certificates where applicable.",
+    "courseIds": [
+      "computer-science",
+      "mechanical-engineering",
+      "data-science",
+      "business-administration"
+    ],
+    "universityIds": [
+      "technical-university-of-munich",
+      "humboldt-university-of-berlin"
+    ]
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "flagEmoji": "🇵🇱",
+    "overview": "Poland is a dynamic Central European nation with a rich academic tradition spanning centuries. Offering world-class education at affordable costs, Poland attracts over 100,000 international students annually. Its vibrant student cities, such as Warsaw and Kraków, blend historic charm with modern tech hubs.",
+    "whyStudy": "Poland offers globally recognized degrees accredited across the European Union at significantly lower tuition and living costs than Western Europe. International students benefit from post-study work opportunities and high-tech career avenues.",
+    "educationSystem": "Poland adheres to the Bologna Process, providing Bachelor's (3-3.5 years), Master's (1.5-2 years), and Doctoral degrees. Degree programs are taught in English across top public universities.",
+    "popularPrograms": [
+      "Computer Science",
+      "Business Administration",
+      "Data Science"
+    ],
+    "tuitionFees": "Tuition fees for international students range from €2,000 to €4,500 per year for undergraduate and postgraduate degrees.",
+    "costOfLiving": "Monthly living expenses range between €450 and €700, including housing in student dormitories, meals, and public transport.",
+    "admissionRequirements": "High school diploma with grade transcripts for Bachelor's programs; relevant Bachelor's degree for Master's programs.",
+    "englishRequirements": "IELTS 6.0+ or TOEFL 75+ or equivalent B2 English proficiency certificate.",
+    "intakes": [
+      "October (Fall)",
+      "February (Spring)"
+    ],
+    "visaInfo": "Non-EU students require a Type D National Visa for studies, followed by applying for a Temporary Residence Card (Karta Pobytu) upon arrival.",
+    "scholarships": "The Banach Scholarship Programme and Poland My First Choice scholarship provide full and partial tuition waivers for foreign candidates.",
+    "workOpportunities": "Full-time students holding a valid residence permit can work up to 20 hours per week during studies and full-time during holidays.",
+    "careerOpportunities": "Poland is a major European outsourcing and software development hub, offering extensive career paths in IT, finance, and engineering.",
+    "applicationProcess": "Apply directly to the university admissions portal, submit certified translated transcripts, passport copy, and CV followed by an online interview.",
+    "courseIds": [
+      "computer-science",
+      "business-administration",
+      "data-science"
+    ],
+    "universityIds": [
+      "university-of-warsaw"
+    ]
+  },
+  {
+    "id": "latvia",
+    "name": "Latvia",
+    "flagEmoji": "🇱🇻",
+    "overview": "Latvia is a progressive Baltic country known for its lush green landscapes, sea coastline, and booming digital economy. Located in Northern Europe, Latvia offers high quality higher education with English as a widely spoken medium.",
+    "whyStudy": "Latvia combines safe, picturesque surroundings with low living costs and recognized EU degree qualifications. Students enjoy high-speed internet infrastructure and a friendly international student environment.",
+    "educationSystem": "Higher education follows European standards with Bachelor's (3-4 years) and Master's (1-2 years) degrees. State universities prioritize IT, data analytics, and engineering research.",
+    "popularPrograms": [
+      "Computer Science",
+      "Data Science"
+    ],
+    "tuitionFees": "Tuition fees for international students range from €2,200 to €5,000 per academic year.",
+    "costOfLiving": "Monthly living expenses average between €400 and €650, offering some of the most affordable living conditions in the EU.",
+    "admissionRequirements": "Secondary school graduation diploma for Bachelor's programs; recognized undergraduate degree for Master's admission.",
+    "englishRequirements": "IELTS 5.5+ or TOEFL 70+ or university online language interview.",
+    "intakes": [
+      "September (Fall)",
+      "February (Spring)"
+    ],
+    "visaInfo": "Students need a Long-Stay Visa (Type D) followed by a Temporary Residence Permit issued by the Office of Citizenship and Migration Affairs.",
+    "scholarships": "Latvian State Scholarships provide monthly stipends for international students from eligible partner countries.",
+    "workOpportunities": "International students can work up to 20 hours per week during semesters and 40 hours per week during vacations.",
+    "careerOpportunities": "Latvia is an emerging Baltic tech hub offering internships and post-graduation positions in software design and digital services.",
+    "applicationProcess": "Submit application through the central Latvian study portal, undergo document verification (AIC), and complete a video interview.",
+    "courseIds": [
+      "computer-science",
+      "data-science"
+    ],
+    "universityIds": [
+      "university-of-latvia"
+    ]
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgaria",
+    "flagEmoji": "🇧🇬",
+    "overview": "Bulgaria is a historic Southeastern European country situated in the Balkans, famous for its Black Sea coast, majestic mountain ranges, and rich cultural heritage. Its higher education institutions offer affordable EU accredited degrees in engineering and technology.",
+    "whyStudy": "Bulgaria offers some of the lowest tuition fees and living costs in the European Union. Students benefit from recognized qualifications and a growing IT ecosystem in Sofia.",
+    "educationSystem": "Higher education is fully aligned with the Bologna Process. Degree levels comprise Bachelor's (4 years), Master's (1-2 years), and Doctorate studies.",
+    "popularPrograms": [
+      "Computer Science",
+      "Civil Engineering"
+    ],
+    "tuitionFees": "Annual tuition fees range between €2,000 and €4,000 for undergraduate and Master's programs taught in English.",
+    "costOfLiving": "Monthly expenses range from €350 to €600, including housing, food, and public transportation.",
+    "admissionRequirements": "High school diploma with at least 62% average in Mathematics/Physics for engineering majors.",
+    "englishRequirements": "IELTS 5.5+ or TOEFL 70+ or internal university English language exam.",
+    "intakes": [
+      "October (Fall)"
+    ],
+    "visaInfo": "Non-EU students apply for a Type D Visa supported by approval from the Bulgarian Ministry of Education and Science.",
+    "scholarships": "Ministry of Education scholarships and university merit bursaries for high-ranking international applicants.",
+    "workOpportunities": "Foreign students can work part-time up to 20 hours per week during the academic year.",
+    "careerOpportunities": "Sofia is a major Eastern European IT hub hosting regional development centers for global software corporations.",
+    "applicationProcess": "Submit application documents to the university for legalization by the Bulgarian Ministry of Education.",
+    "courseIds": [
+      "computer-science",
+      "civil-engineering"
+    ],
+    "universityIds": [
+      "sofia-university"
+    ]
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "flagEmoji": "🇪🇸",
+    "overview": "Spain is a vibrant Southwestern European nation renowned for its rich culture, warm Mediterranean climate, and historic universities. Spanish institutions attract international students with modern campuses, high quality of life, and international business programs.",
+    "whyStudy": "Studying in Spain offers exposure to one of the world's major languages and cultures, high academic standards, affordable fees at public universities, and a thriving international student community.",
+    "educationSystem": "Spain follows the European Higher Education Area (EHEA) model, offering Grado (Bachelor's - 4 years) and Máster (1-2 years) degrees.",
+    "popularPrograms": [
+      "Business Administration",
+      "Hospitality Management"
+    ],
+    "tuitionFees": "Tuition fees for international students range from €2,000 to €6,000 per year at public universities.",
+    "costOfLiving": "Monthly living expenses range from €600 to €900, covering university residences, dining, and transportation.",
+    "admissionRequirements": "Bachillerato-equivalent diploma validation (UNEDasiss) for Bachelor's programs; recognized Bachelor's degree for Master's programs.",
+    "englishRequirements": "IELTS 6.0+ or TOEFL 80+ for English-taught study tracks.",
+    "intakes": [
+      "September (Fall)",
+      "January (Spring)"
+    ],
+    "visaInfo": "Non-EU students require a Type D Student Visa (Visado de Estudiante) supported by health insurance and proof of funds.",
+    "scholarships": "MAEC-AECID scholarships and Spanish Ministry of Education grants for international candidates.",
+    "workOpportunities": "Students holding a study visa can work up to 30 hours per week with a valid work authorization.",
+    "careerOpportunities": "Spain boasts top global business schools and a booming tourism, hospitality, and tech sector with post-study opportunities.",
+    "applicationProcess": "Apply via UNEDasiss portal for credential evaluation or directly to university postgraduate portals.",
+    "courseIds": [
+      "business-administration",
+      "hospitality-management"
+    ],
+    "universityIds": [
+      "autonomous-university-of-barcelona"
+    ]
+  }
+]
